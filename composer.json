@@ -8,5 +8,8 @@
             "email": "bthakare@xento.com"
         }
     ],
-    "require": {}
+    "require": {},
+	"autoload":{
+	"psr-4":{"HelloPackage\\" : "source/" }
+}
 }
