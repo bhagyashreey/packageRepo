@@ -1,0 +1,12 @@
+{
+    "name": "bthakare/hello_world",
+    "description": "Hello Package",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Bhagyashree Thakare",
+            "email": "bthakare@xento.com"
+        }
+    ],
+    "require": {}
+}
